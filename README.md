@@ -1,6 +1,5 @@
 # NN_rProp
 
-## What does it do?
 NN_rProp is an implementation of a dynamic multilayer neural network.
 It simulates both forward and backward propagation, allowing for adjustments to network parameters such as the number of internal layers and nodes.
 
